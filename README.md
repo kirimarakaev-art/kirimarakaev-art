@@ -23,25 +23,37 @@
 ```
 ---
 
-### 🛠️ my stack
+### 🛠️ My Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D00000" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=D00000" alt="C++" />
-  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=D00000" alt="Go" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D00000" alt="Python" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=D00000" alt="C++" />
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=D00000" alt="Go" />
+  </a>
 </p>
 
 ### 📚 Learning
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS" />
-  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JS" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JS" />
+  </a>
 </p>
 
 ---
 
-### 📬 Social contacns
+### 📬 Social contacts
 
 <p>
   <a href="https://t.me/Divine_Rampage" target="_blank">
