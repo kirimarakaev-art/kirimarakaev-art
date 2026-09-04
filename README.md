@@ -9,7 +9,7 @@
 ### 👨‍💻 Info
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=D00000&background=0D111700&center=true&vcenter=true&multiline=true&width=500&height=180&lines=%7B;%20%20%22name%22%3A%20%22Керим%22%2C;%20%20%22surname%22%3A%20%22Аракаев%22%2C;%20%20%22age%22%3A%2018%2C;%20%20%22town%22%3A%20%22Симферополь%22%2C;%20%20%22role%22%3A%20%7B%22university%22%3A%20%22student%22%2C%20%22field%22%3A%20%22backend-dev%22%7D%2C;%20%20%22group%22%3A%20%22I-3-25%22;%7D" alt="Animated JSON" />
+  <img src="./Code_Generated_Image.png" alt="About Me Card" width="600"/>
 </p>
 
 ---
