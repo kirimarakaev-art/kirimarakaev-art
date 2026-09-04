@@ -1,12 +1,12 @@
 <h1 align="center">WELCOME</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;CS+Student+%7C+Group+I-3-25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 Обо мне
+### 👨‍💻 Info
 
 ```json
 {
@@ -23,7 +23,7 @@
 ```
 ---
 
-### 🛠️ Мои стеки
+### 🛠️ my stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D00000" alt="Python" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=D00000" alt="Go" />
 </p>
 
-### 📚 Обучение
+### 📚 Learning
 
 <p>
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 📬 Социальные контакты
+### 📬 Social contacns
 
 <p>
   <a href="https://t.me/Divine_Rampage" target="_blank">
