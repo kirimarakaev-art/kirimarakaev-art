@@ -1,4 +1,4 @@
-<h1 align="center">WELCOME</h1>
+<h1 align="center">${\color{red}\text{WELCOME}}$</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
