@@ -9,7 +9,7 @@
 ### 👨‍💻 Info
 
 <p align="center">
-  <img src="./gemini-svg.svg" />
+  <img src="./profile.svg" width="580" alt="Kerim Arakaev Profile" />
 </p>
 
 ---
