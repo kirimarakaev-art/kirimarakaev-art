@@ -43,13 +43,13 @@ json
 ### 📬 Социальные контакты
 
 <p>
-  <a href="https://t.me/your_telegram_username" target="_blank">
+  <a href="https://t.me/Divine_Rampage" target="_blank">
     <img src="https://img.shields.io/badge/Tg-111111?style=for-the-badge&logo=telegram&logoColor=D00000" alt="Telegram" />
   </a>
-  <a href="https://steamcommunity.com/id/your_steam_id" target="_blank">
+    <a href="https://steamcommunity.com/profiles/76561199203277335/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=D00000" alt="Steam" />
   </a>
-  <a href="https://discord.com/users/your_discord_id" target="_blank">
+  <a href="https://discord.com/users/717025794035286076" target="_blank">
     <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=D00000" alt="Discord" />
   </a>
 </p>
