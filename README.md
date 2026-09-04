@@ -9,7 +9,7 @@
 ### 👨‍💻 Info
 
 <p align="center">
-  <img src="./Code_Generated_Image.png" alt="About Me Card" width="600"/>
+  <img src="./gemini-svg.svg" />
 </p>
 
 ---
