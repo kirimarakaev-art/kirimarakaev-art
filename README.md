@@ -9,14 +9,14 @@ ___
 
 
 
-## 👨‍💻 Info
+<h2 align=center>👨‍💻 Info</h2>
 <p align="center">
   <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
 </p>
 
 
 
-## 🛠️ My Stack
+<h2 align=center> 🛠️ My Stack</h2>
 
 
 <p>
@@ -33,7 +33,7 @@ ___
 
 
 
-## 📚 Learning
+<h2 align=center>📚 Learning </h2>
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -49,7 +49,7 @@ ___
 
 
 
-## 📬 Social contacts
+<h2 align=center> 📬 Social contacts</h2>
 
 <p>
   <a href="https://t.me/Divine_Rampage" target="_blank">
