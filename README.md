@@ -6,10 +6,14 @@
 
 ---
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+——
+
 ### 👨‍💻 Info
 
 <p align="center">
-  <img src="./profile.svg" width="580" alt="Kerim Arakaev Profile" />
+  <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
 </p>
 
 ---
