@@ -1,4 +1,7 @@
-<h1 align="center">${\color{red}\text{WELCOME}}$</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0202&text=WELCOME&fontSize=50&fontColor=8B0000&stroke=FF0033&strokeWidth=2&height=120&fontAlignY=55" alt="Dark Red Neon Welcome" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
