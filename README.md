@@ -7,19 +7,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
 </p>
 
-___
 
 
-
-
-<h2 align=center>👨‍💻 Info</h2>
+<h2 align=center>👨‍💻 Info:</h2>
 <p align="center">
   <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
 </p>
 
 
 
-<h2 align=center> 🛠️ My Stack</h2>
+<h2 align=center> 🛠️ My Stack:</h2>
 
 
 <p>
@@ -36,7 +33,7 @@ ___
 
 
 
-<h2 align=center>📚 Learning </h2>
+<h2 align=center>📚 Learning: </h2>
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -52,7 +49,7 @@ ___
 
 
 
-<h2 align=center> 📬 Social contacts</h2>
+<h2 align=center> 📬 Social contacts:</h2>
 
 <p>
   <a href="https://t.me/Divine_Rampage" target="_blank">
