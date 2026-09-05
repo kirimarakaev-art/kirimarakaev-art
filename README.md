@@ -4,21 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
 </p>
 
----
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
 ___
 
-### 👨‍💻 Info
 
+
+
+## 👨‍💻 Info
 <p align="center">
   <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
 </p>
 
----
 
-### 🛠️ My Stack
+
+## 🛠️ My Stack
+
 
 <p>
   <a href="https://www.python.org/" target="_blank">
@@ -32,9 +31,9 @@ ___
   </a>
 </p>
 
----
 
-### 📚 Learning
+
+## 📚 Learning
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -48,9 +47,9 @@ ___
   </a>
 </p>
 
----
 
-### 📬 Social contacts
+
+## 📬 Social contacts
 
 <p>
   <a href="https://t.me/Divine_Rampage" target="_blank">
