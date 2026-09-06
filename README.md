@@ -1,24 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0202&text=WELCOME&fontSize=50&fontColor=8B0000&stroke=FF0033&strokeWidth=2&height=120&fontAlignY=55" alt="Dark Red Neon Welcome" />
 </p>
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
 </p>
-
-
-
 <h2 align=center>Info:</h2>
 <p align="center">
   <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
 </p>
-
-
-
 <h2 align=center>My Stack:</h2>
-
-
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D00000" alt="Python" />
