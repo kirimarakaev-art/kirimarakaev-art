@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0202&text=WELCOME&fontSize=50&fontColor=8B0000&stroke=FF0033&strokeWidth=2&height=120&fontAlignY=55" alt="Dark Red Neon Welcome" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=WELCOME&fontSize=80&fontColor=500000&stroke=FF0033&strokeWidth=2&height=120&fontAlignY=55" alt="Dark Red Neon Welcome" />
 </p>
-<p>I am:</p>
+<p></p>
 <p> </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
 </p>
-<p align=center>Info:</p>
+<p>Info:</p>
 <p align="center">
   <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
 </p>
-<h2 align=center>My Stack:</h2>
-<p>
+<p>My Stack:</p>
+<p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D00000" alt="Python" />
   </a>
@@ -26,10 +26,7 @@
 </p>
 
 
-
-<h2 align=center>Learning: </h2>
-
-<p>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" />
   </a>
@@ -43,9 +40,9 @@
 
 
 
-<h2 align=center>Social contacts:</h2>
+<p>Social contacts:</p>
 
-<p>
+<p align="center">
   <a href="https://t.me/Divine_Rampage" target="_blank">
     <img src="https://img.shields.io/badge/Tg-111111?style=for-the-badge&logo=telegram&logoColor=D00000" alt="Telegram" />
   </a>
