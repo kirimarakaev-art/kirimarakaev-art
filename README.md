@@ -8,11 +8,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
 </p>
-<p>Info:</p>
+<p><b>INFO:</b></p>
 <p align="center">
   <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
 </p>
-<p>My Stack:</p>
+<p><b>MY STACK:</b></p>
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D00000" alt="Python" />
@@ -40,7 +40,7 @@
 
 
 
-<p>Social contacts:</p>
+<p><b>SOCIAL CONTACTS:</b></p>
 
 <p align="center">
   <a href="https://t.me/Divine_Rampage" target="_blank">
