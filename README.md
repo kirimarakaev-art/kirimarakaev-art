@@ -9,13 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <!-- Основная статистика (звезды, коммиты, PR) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-  <!-- Топ используемых языков программирования -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 <p><b>INFO:</b></p>
 <p align="center">
