@@ -47,8 +47,16 @@
   </a>
 </p>
 
+
 <p align="center">
-  <a href="https://leetcode.com/Staylor72" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Staylor72?theme=dark" alt="LeetCode Stats" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=kirimarakaev-art&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kirimarakaev-art&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kirimarakaev-art&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=kirimarakaev-art&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
