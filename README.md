@@ -1,21 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=WELCOME&fontSize=80&fontColor=500000&stroke=FF0033&strokeWidth=2&height=120&fontAlignY=55" alt="Dark Red Neon Welcome" />
 </p>
-<p></p>
-<p> </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
 </p>
 
-
-
-<p><b>INFO:</b></p>
 <p align="center">
   <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
 </p>
-<p><b>MY STACK:</b></p>
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D00000" alt="Python" />
@@ -42,17 +35,14 @@
 </p>
 
 
-
-<p><b>SOCIAL CONTACTS:</b></p>
-
 <p align="center">
   <a href="https://t.me/Divine_Rampage" target="_blank">
-    <img src="https://img.shields.io/badge/Tg-111111?style=for-the-badge&logo=telegram&logoColor=D00000" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Tg-111111?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram" />
   </a>
     <a href="https://steamcommunity.com/profiles/76561199203277335/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=D00000" alt="Steam" />
+    <img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam" />
   </a>
   <a href="https://discord.com/users/717025794035286076" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=D00000" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" />
   </a>
 </p>
