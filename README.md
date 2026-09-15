@@ -24,25 +24,25 @@
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" />
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=D00000" alt="HTML" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS" />
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=D00000" alt="CSS" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JS" />
+    <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=D00000" alt="JS" />
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://t.me/Divine_Rampage" target="_blank">
-    <img src="https://img.shields.io/badge/Tg-111111?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Tg-000000?style=for-the-badge&logo=telegram&logoColor=D00000" alt="Telegram" />
   </a>
     <a href="https://steamcommunity.com/profiles/76561199203277335/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam" />
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=D00000" alt="Steam" />
   </a>
   <a href="https://discord.com/users/717025794035286076" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=D00000" alt="Discord" />
   </a>
 </p>
