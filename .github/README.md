@@ -46,9 +46,9 @@
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=D00000" alt="Discord" />
   </a>
 </p>
-<p align="center">
-  <img src="./leetcode-stats.svg" alt="LeetCode Stats" />
-</p>
+<a href="https://leetcode.com/Staylor72" align="center">
+  <img src="https://leetcard.jacoblin.cool/Staylor72?theme=dark&font=baloo" alt="LeetCode Stats" />
+</a>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=kirimarakaev-art&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
