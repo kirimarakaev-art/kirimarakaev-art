@@ -1,0 +1,64 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=WELCOME&fontSize=80&fontColor=500000&stroke=FF0033&strokeWidth=2&height=120&fontAlignY=55" alt="Dark Red Neon Welcome" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E63946&center=true&vcenter=true&width=435&lines=Backend+Developer;Student+%7C+Group+I-3-25" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="./profile.svg" width="600" alt="Kerim Arakaev Profile" />
+</p>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D00000" alt="Python" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=D00000" alt="C++" />
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=D00000" alt="Go" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=D00000" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=D00000" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=D00000" alt="JS" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://t.me/Divine_Rampage" target="_blank">
+    <img src="https://img.shields.io/badge/Tg-000000?style=for-the-badge&logo=telegram&logoColor=D00000" alt="Telegram" />
+  </a>
+    <a href="https://steamcommunity.com/profiles/76561199203277335/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=D00000" alt="Steam" />
+  </a>
+  <a href="https://discord.com/users/717025794035286076" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=D00000" alt="Discord" />
+  </a>
+</p>
+<p align="center">
+  <img src="./leetcode-stats.svg" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=kirimarakaev-art&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kirimarakaev-art&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kirimarakaev-art&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=kirimarakaev-art&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>

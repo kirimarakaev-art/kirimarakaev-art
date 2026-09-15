@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="340" viewBox="0 0 580 340" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0c" />
+      <stop offset="100%" stop-color="#14141c" />
+    </linearGradient>
+    
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d00000" />
+      <stop offset="50%" stop-color="#330008" />
+      <stop offset="100%" stop-color="#d00000" />
+    </linearGradient>
+
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e1e28" />
+      <stop offset="100%" stop-color="#121218" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .window {
+      rx: 10px;
+      fill: url(#bgGrad);
+      stroke: url(#borderGrad);
+      stroke-width: 2px;
+      filter: drop-shadow(0 0 8px rgba(208, 0, 0, 0.4));
+    }
+
+    .code-text {
+      font-family: Consolas, 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+    }
+
+    .key { fill: #d00000; font-weight: bold; }
+    .string { fill: #ffffff; }
+    .number { fill: #ff6666; }
+    .bracket { fill: #8888aa; }
+
+    .line {
+      opacity: 0;
+      animation: fadeIn 0.3s ease-out forwards;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(3px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .l1 { animation-delay: 0.10s; }
+    .l2 { animation-delay: 0.25s; }
+    .l3 { animation-delay: 0.40s; }
+    .l4 { animation-delay: 0.55s; }
+    .l5 { animation-delay: 0.70s; }
+    .l6 { animation-delay: 0.85s; }
+    .l7 { animation-delay: 1.00s; }
+    .l8 { animation-delay: 1.15s; }
+    .l9 { animation-delay: 1.30s; }
+    .l10 { animation-delay: 1.45s; }
+    .l11 { animation-delay: 1.60s; }
+
+    .cursor {
+      animation: blink 0.8s infinite;
+      fill: #d00000;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Window Container -->
+  <rect x="10" y="10" width="560" height="320" class="window" />
+
+  <!-- Title Bar -->
+  <rect x="10" y="10" width="560" height="36" rx="10" fill="url(#headerGrad)" />
+  <rect x="10" y="32" width="560" height="14" fill="#121218" />
+
+  <!-- Window Control Buttons -->
+  <circle cx="32" cy="28" r="5" fill="#ff5f56" />
+  <circle cx="48" cy="28" r="5" fill="#ffbd2e" />
+  <circle cx="64" cy="28" r="5" fill="#27c93f" />
+
+  <text x="290" y="32" text-anchor="middle" fill="#8888aa" font-family="Consolas, monospace" font-size="12" font-weight="bold">profile.json</text>
+
+  <!-- Code Body -->
+  <g transform="translate(35, 75)" class="code-text">
+    <text y="0" class="line l1"><tspan class="bracket">{</tspan></text>
+    <text y="22" class="line l2" x="18"><tspan class="key">"name"</tspan><tspan class="bracket">: </tspan><tspan class="string">"Kerim"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="44" class="line l3" x="18"><tspan class="key">"surname"</tspan><tspan class="bracket">: </tspan><tspan class="string">"Arakaev"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="66" class="line l4" x="18"><tspan class="key">"age"</tspan><tspan class="bracket">: </tspan><tspan class="number">18</tspan><tspan class="bracket">,</tspan></text>
+    <text y="88" class="line l5" x="18"><tspan class="key">"town"</tspan><tspan class="bracket">: </tspan><tspan class="string">"Simferopol"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="110" class="line l6" x="18"><tspan class="key">"role"</tspan><tspan class="bracket">: {</tspan></text>
+    <text y="132" class="line l7" x="36"><tspan class="key">"university"</tspan><tspan class="bracket">: </tspan><tspan class="string">"student"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="154" class="line l8" x="36"><tspan class="key">"professional_field"</tspan><tspan class="bracket">: </tspan><tspan class="string">"backend-dev"</tspan></text>
+    <text y="176" class="line l9" x="18"><tspan class="bracket">},</tspan></text>
+    <text y="198" class="line l10" x="18"><tspan class="key">"group"</tspan><tspan class="bracket">: </tspan><tspan class="string">"I-3-25"</tspan></text>
+    <text y="220" class="line l11"><tspan class="bracket">}</tspan> <rect class="cursor" x="16" y="208" width="8" height="15" rx="1" /></text>
+  </g>
+</svg>
