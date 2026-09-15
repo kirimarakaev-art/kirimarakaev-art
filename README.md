@@ -47,9 +47,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://leetcode.com/Staylor72" target="_blank">
-    <img src="https://leetcode-badge-github-readme.vercel.app/api/leetcode?username=Staylor72" alt="LeetCode Stats" />
-  </a>
+  <img src="./leetcode-stats.svg" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
