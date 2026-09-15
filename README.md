@@ -47,4 +47,9 @@
   </a>
 </p>
 
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Staylor72)](https://leetcode.com/Staylor72)
+<p align="center">
+  <a href="https://leetcode.com/Staylor72" target="_blank">
+    <img src="https://leetcode-stats-card.vercel.app/get?username=Staylor72&theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
