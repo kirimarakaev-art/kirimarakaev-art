@@ -46,3 +46,5 @@
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=D00000" alt="Discord" />
   </a>
 </p>
+
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Staylor72)](https://leetcode.com/Staylor72)
